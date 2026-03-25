@@ -55,5 +55,5 @@ public class Main {
         }
         System.out.println();
     }
-    //Actions test hiij baaina
+    //Actions test odoo boloh ystoi
 }
