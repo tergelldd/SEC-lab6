@@ -16,6 +16,7 @@ public class Main {
          * Feel free to write more to test your implementation. 
          * */
 
+        System.out.println("Hello World!");
         IntegerList list1;
         SortedIntList list2;
 
@@ -55,5 +56,4 @@ public class Main {
         }
         System.out.println();
     }
-    //Actions test odoo boloh ystoi
 }
