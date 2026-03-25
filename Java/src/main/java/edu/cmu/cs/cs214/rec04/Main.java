@@ -18,6 +18,7 @@ public class Main {
 
         IntegerList list1;
         SortedIntList list2;
+        System.out.println("Actions test 123");
 
         list1 = new DelegationSortedIntList();
         list2 = new InheritanceSortedIntList();
