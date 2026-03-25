@@ -15,7 +15,7 @@ public class Main {
          * Select all and (CTRL + /) or (COMMAND + /)
          * Feel free to write more to test your implementation. 
          * */
-
+        System.out.println("hello world");
         IntegerList list1;
         SortedIntList list2;
 
