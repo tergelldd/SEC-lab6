@@ -16,7 +16,6 @@ public class Main {
          * Feel free to write more to test your implementation. 
          * */
 
-        System.out.println("Hello World!");
         IntegerList list1;
         SortedIntList list2;
 
@@ -43,6 +42,7 @@ public class Main {
 
         printList(list2);
         System.out.println(((InheritanceSortedIntList) list2).getTotalAdded());
+        System.out.println("hello world");
     }
 
     /**
